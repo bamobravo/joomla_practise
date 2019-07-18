@@ -1,0 +1,28 @@
+body,html{
+margin: 0;
+}
+#header{
+    padding: 5px 30px;
+    border-bottom: solid #ccc thin;
+}
+.menu-item,.search-space{
+    margin-top: 15px;
+}
+.brand-logo{
+    width: 120px;
+}
+.brand-logo > img{
+    max-width: 100%;
+}
+.navbar{
+    float: right;
+    border:solid thin #03cc35;
+    border-radius: 10px;
+}
+.search-space{
+    padding: 15px; 
+}
+.nav-link{
+   color: #b75212;
+   font-size: 1.2em;
+}
